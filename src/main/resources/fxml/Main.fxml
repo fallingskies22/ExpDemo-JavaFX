@@ -44,6 +44,7 @@
                         <JFXButton accessibleText="Struts2" prefHeight="43.0" prefWidth="127.0" styleClass="menu" text="Struts2" />
                         <JFXButton accessibleText="Weblogic" prefHeight="43.0" prefWidth="127.0" styleClass="menu" text="Weblogic" />
                         <JFXButton accessibleText="ThinkPHP" prefHeight="43.0" prefWidth="127.0" styleClass="menu" text="ThinkPHP" />
+                        <JFXButton accessibleText="ThinkPHP" prefHeight="43.0" prefWidth="127.0" styleClass="menu" text="ThinkPHP" />
                         <JFXButton accessibleText="OA" prefHeight="43.0" prefWidth="127.0" styleClass="menu" text="各类OA" />
                         <JFXButton accessibleText="Others" prefHeight="43.0" prefWidth="127.0" styleClass="menu" text="Others" />
                      </children>
